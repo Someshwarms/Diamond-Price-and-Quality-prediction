@@ -57,12 +57,19 @@ RMSE: 3388.3531112030905
 
 
 ii.Accurcay value of all the algorithm for classification data:
+
 1.RandomForestClassifier: 79%
+
 2.AdaBoostClassifier: 67%
+
 3.GradientBoostingClassifier: 76%
+
 4.XGBClassifier: 74%
+
 5.LogisticRegression: 59%
+
 6.SVM: 62%
+
 
 
 Conculsion:For Regression as well as for classification in both cases 'RandomForest' algorithm performed very well in comparision to other algorithm.To improve the result more toward better side can be done with the help of Hyper parameter optimization or tuning technique like Randomizedsearchcv,Gridsearchcv(Non-Automated) and Genetic-Algorithm:TpotClassifier(Automated method) with this we can improve the result more toward better side
