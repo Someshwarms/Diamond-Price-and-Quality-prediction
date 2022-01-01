@@ -1,6 +1,6 @@
 # Diamond-Price-and-Quality-prediction
 
-Link for the dataset used in this project:https://www.kaggle.com/ronil8/diamond-price-prediction-dataset**
+Link for the dataset used in this project:https://www.kaggle.com/ronil8/diamond-price-prediction-dataset
 
 
 Result of all the algorithm used in this predictive modelling of diamond price and quality prediction:
