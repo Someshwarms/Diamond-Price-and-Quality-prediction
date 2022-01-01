@@ -4,7 +4,9 @@ Link for the dataset used in this project:https://www.kaggle.com/ronil8/diamond-
 
 
 Result of all the algorithm used in this predictive modelling of diamond price and quality prediction:
+
 a.MSE,MAE,RMSE value for regression data:
+
 1.RandomForestRegressor:
 MSE: 313629.07056677254
 MAE: 285.01803467501617
